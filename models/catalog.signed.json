@@ -1,0 +1,8 @@
+{
+  "payload": "eyJmb3JtYXQiOiJzb3ZpbmEtbW9kZWxzL3YxIiwic2VxdWVuY2UiOjEsImlzc3VlZF9hdCI6IjIwMjYtMTEtMDdUMDA6MDA6MDBaIiwiZXhwaXJlc19hdCI6IjIwMjctMDItMDVUMDA6MDA6MDBaIiwibW9kZWxzIjpbXX0=",
+  "sig": {
+    "alg": "ed25519",
+    "keyId": "k20261106",
+    "value": "+6haZLuSJGGWDY/jmM31c+PelL1oKE9vniUlsiqXF4Yg9GRBZI1Gtr1/hgFqPA4SF3uOCPwvBSUeJrJw2DiXBQ=="
+  }
+}
